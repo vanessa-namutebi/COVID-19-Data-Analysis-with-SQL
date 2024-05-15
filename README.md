@@ -11,9 +11,9 @@ Queries and Analysis:
 -  Query 4: Analyzing total cases, new cases, total deaths, and population from CovidDeaths, ordered by location and date.
 
 ### Infection and Death Rates Analysis:
-- Query 5: Calculating the death percentage based on total cases versus total deaths for a specific location (e.g., 'ug').
+- Query 5: Calculating the death percentage based on total cases versus total deaths for a specific location (e.g., Uganda).
 - Query 6: Calculating the death percentage based on total cases versus total deaths globally.
-- Query 7: Analyzing total cases versus population percentage for a specific location (e.g., 'ugan').
+- Query 7: Analyzing total cases versus population percentage for a specific location (e.g., Uganda).
 - Query 8: Identifying countries with the highest infection rates compared to population.
 - Query 9: Identifying countries with the highest death counts per population.
 
