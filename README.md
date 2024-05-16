@@ -1,6 +1,6 @@
 # COVID-19-Data-Analysis-with-SQL
 ## Introduction:
-The SQL project focused on analyzing COVID-19 data related to deaths, vaccinations, and population statistics. Various SQL queries were used to extract, manipulate, and analyze data from the "PortfolioProject" database. ( I was using SQL Server Management Studio)
+The SQL project focused on analyzing COVID-19 data related to deaths, vaccinations, and population statistics. Various SQL queries were used to extract, manipulate, and analyze data from the "PortfolioProject" database. ( I was using SQL Server Management Studio) . I got the data set from google, you can also get data from kaggle .
 
 Queries and Analysis:
 
