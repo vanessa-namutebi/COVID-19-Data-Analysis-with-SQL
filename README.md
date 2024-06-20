@@ -30,4 +30,9 @@ Queries and Analysis:
 - Query 17: Using temporary tables to calculate the percentage of population vaccinated.
 
 ### Conclusion:
+Key Findings:
+- The highest death rates were observed in regions with lower vaccination rates.
+- Vaccination uptake varied significantly by region, with demographic factors influencing rates.
+- There were notable correlations between population density and the spread of COVID-19.
+
 The SQL project demonstrated the use of SQL queries to analyze COVID-19 data effectively. Insights were gained regarding infection rates, death rates, vaccination progress, and global trends, contributing to informed decision-making in public health strategies.
